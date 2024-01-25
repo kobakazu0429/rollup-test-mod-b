@@ -1,2 +1,2 @@
 const o=(o,t,c)=>((o,t)=>o/t)(((o,t)=>o+t)(o,t),c);export{o as addToDiv};
-//# sourceMappingURL=index.mjs.map
+//# sourceMappingURL=index.min.mjs.map
